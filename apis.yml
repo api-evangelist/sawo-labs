@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://sawolabs.com
 common:
+  - type: DomainSecurity
+    url: security/sawo-labs-domain-security.yml
   - type: Website
     url: https://sawolabs.com
   - type: PublicAPIsListing

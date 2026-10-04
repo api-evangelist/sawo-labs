@@ -33,13 +33,13 @@ x-category: "Authentication & Authorization"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Authentication And Authorization
   - Public APIs
+  - Authentication
+  - Passwordless
 apis:
   - name: SAWO Labs
     description: "Simplify login and improve user experience by integrating passwordless authentication in your app"
     humanURL: https://sawolabs.com
-    baseURL: https://sawolabs.com
     tags:
       - Authentication And Authorization
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Authentication And Authorization

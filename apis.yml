@@ -40,7 +40,8 @@ apis:
   - name: SAWO Labs
     description: "Simplify login and improve user experience by integrating passwordless authentication in your app"
     humanURL: https://sawolabs.com
-    tags:
+    tags: []
+    tags_raw:
       - Authentication And Authorization
     properties:
       - type: Documentation
